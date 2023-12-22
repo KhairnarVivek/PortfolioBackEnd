@@ -1,0 +1,5 @@
+package com.vivek.portfolio.entity;
+
+public class Feedback {
+
+}

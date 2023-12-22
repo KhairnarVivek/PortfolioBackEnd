@@ -1,0 +1,8 @@
+package com.vivek.portfolio.repository;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.vivek.portfolio.entity.Feedback;
+
+public interface FeedbackRepository extends MongoRepository<Feedback, String> {
+}
